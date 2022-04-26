@@ -1,0 +1,23 @@
+,Asset Restriction,Asset Restriction ID,count
+0,Staff record shot,608,145648
+1,VAE (full restriction),1063,2877
+2,VAE,1008,2150
+3,Internal Dept only,607,2061
+4,None,"608,607",578
+5,Low quality image,1062,199
+6,None,"1008,608",130
+7,None,,126
+8,Loan in,1067,103
+9,Other,1068,98
+10,None,"608,1062",84
+11,None,"1067,607",65
+12,VAE (some uses),1066,28
+13,VAE (embargo),1070,27
+14,Reference only ,1069,10
+15,None,"608,1063",10
+16,None,"1008,1068",7
+17,None,"608,1008",6
+18,None,"1062,1067",4
+19,None,"608,1067",2
+20,None,"608,1069",2
+21,None,"1008,1063",1
